@@ -18,10 +18,10 @@
 
 |  |
 |--|--|
-|  |  ||  |  |
+|  |  |
 
 |Column Name  | Description |
-|--|--|--|
+|--|--|
 | Id  | Unique Id of the sample |
 | Age | Age of the person|
 | Sex| The sex of the person(M and F) |
